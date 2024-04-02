@@ -1,3 +1,9 @@
+```
+
+NAME :RAGUNATH R
+REG.NO : 212222240081
+
+```
 # EXPERIMENT-02 INTEFACING A DIGITAL INPUT TO ARM DEVELOPMENT BOARD
 ## Aim: 
 To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
@@ -54,8 +60,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 ## STM 32 CUBE PROGRAM :
 ```
-NAME :RAGUNATH R
-REG.NO : 212222240081
+
 
 #include "main.h"
 #include "stdbool.h"
